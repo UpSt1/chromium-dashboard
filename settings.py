@@ -145,3 +145,4 @@ if DEBUG:
   TEMPLATE_CACHE_TIME = 0
 else:
   TEMPLATE_CACHE_TIME = 600 # seconds
+
