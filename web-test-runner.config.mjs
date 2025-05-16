@@ -5,3 +5,4 @@ export default {
   nodeResolve: true,
   browserStartTimeout: 60000,
 };
+
