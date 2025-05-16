@@ -48,3 +48,4 @@ Other notes: The generator allows you to specify generating the `models` only. B
   - `supportsES6=true` - By default, it generates CommonJS ES5. That client interferes with the test framework. As a result, generate the newer es6 version. 
 - Run `npm install` again. We treat this as an independent package and it is specified in the `package.json` file.
 
+
